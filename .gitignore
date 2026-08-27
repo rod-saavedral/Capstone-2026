@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Archivos temporales / de bloqueo de Microsoft Office
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Borradores de trabajo (no se publican en el repositorio)
+BORRADOR_*.md
